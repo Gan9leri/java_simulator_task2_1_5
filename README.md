@@ -1,4 +1,4 @@
-# Домашнее задание к курсу [Java тренажер](https://stepik.org/course/182389/syllabus?search=7262451423): Урок 2.1
+# Домашнее задание к курсу [Java тренажер](https://stepik.org/course/182389/syllabus?search=7262451423): Урок 2.1.5
 ## :scroll: Содержание:
 
 - [Используемый стек](#computer-используемый-стек)
